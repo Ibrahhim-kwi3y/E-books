@@ -144,6 +144,7 @@ hr {
 /************Main*************/
 .main {
   background: url(../Img/main.jpg);
+  background-postion:center;
   background-size: cover;
   height: 100vh;
   position: relative;
